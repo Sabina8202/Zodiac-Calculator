@@ -1,0 +1,57 @@
+
+
+*{
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bolder;
+
+    
+    
+    
+    
+}
+
+body{
+    background-color: rgba(255,219,152,255);
+    
+    color : rgb(88, 66, 57);
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 80px;
+    margin-top: 60px;
+}
+
+#cartoon{
+    padding-top:50px;
+    height: 450px;
+  
+    
+}
+
+#display{
+    
+    
+    height: 60px;
+    width: 500px;
+    padding: 20px;
+    
+}
+
+#button{
+    height: 40px;
+    width: 150px;
+    border: none;
+    border-radius: 20px;
+    font-size: large;
+    background-color: #876555;
+    color: white;
+    font-weight: bold;
+}
+
+.output{
+    margin-left: 50px;
+    
+}
